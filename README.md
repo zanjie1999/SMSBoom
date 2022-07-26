@@ -1,4 +1,4 @@
-![logo](https://cdn.jsdelivr.net/gh/AdminWhaleFall/SMSBoom@master/img/smsboom-logo.png)
+![logo](https://cdn.jsdelivr.net/gh/zanjie1999/SMSBoom@master/img/smsboom-logo.png)
 
 ![test](img/test2.gif)
 
@@ -29,26 +29,26 @@
 🔨作者的打包环境为: `Windows 10 x64 Python3.8` 如果 Windows 系统不是 **Windows 10 64位** 版本,**可能会运行失败**! 如果出现异常报错请截图发 Issue.
 
 1. 下载 EXE 可执行文件  
-  请移步到项目的 [release页](https://github.com/AdminWhaleFall/SMSBoom/releases) 下载
+  请移步到项目的 [release页](https://github.com/zanjie1999/SMSBoom/releases) 下载
   
   > 若遇到国内网络环境下载不下来,请参见 [https://github.do/](https://github.do/) 等加速镜像.
   
 2. 运行  
 
    1. 在任意盘(**除C盘外**)中新建一个文件夹.将程序移动到其中. e.g.  
-   ![](https://cdn.jsdelivr.net/gh/AdminWhaleFall/SMSBoom@master/img/e.g.1.png)
+   ![](https://cdn.jsdelivr.net/gh/zanjie1999/SMSBoom@master/img/e.g.1.png)
   
    2. `Win`+`R` 打开cmd.输入存放的盘符.例如: `E:` 然后cd到文件夹,例如 `cd SMS`
-   ![](https://cdn.jsdelivr.net/gh/AdminWhaleFall/SMSBoom@master/img/cmd1.png)
+   ![](https://cdn.jsdelivr.net/gh/zanjie1999/SMSBoom@master/img/cmd1.png)
    
    3. 确认 cmd 路径是 EXE 所在路径后,cmd 输入:`smsboom_pyinstall.exe`,若出现命令提示,则说明脚本已正常运行. 
-   ![](https://cdn.jsdelivr.net/gh/AdminWhaleFall/SMSBoom@master/img/cmd2.png)
+   ![](https://cdn.jsdelivr.net/gh/zanjie1999/SMSBoom@master/img/cmd2.png)
 
    4. 使用前必须更新一遍最新接口
     ```shell
     smsboom_pyinstall.exe update
     ```  
-    > 若更新接口出现错误 `ssl_`,请参见 [issue](https://github.com/AdminWhaleFall/SMSBoom/issues/2) **关闭代理软件**再 update.
+    > 若更新接口出现错误 `ssl_`,请参见 [issue](https://github.com/zanjie1999/SMSBoom/issues/2) **关闭代理软件**再 update.
 
    5. [对代理设置的说明](https://github.com/WhaleFell/SMSBoom#%E4%BD%BF%E7%94%A8%E4%BB%A3%E7%90%86), 小白可以暂时不看
 
@@ -92,16 +92,16 @@
 - 方法一：使用Git:  
 
 ```shell
-git clone https://github.com/AdminWhaleFall/SMSBoom.git/
+git clone https://github.com/zanjie1999/SMSBoom.git/
 ```  
 
 > 墙国加速
 >  
 > ```shell
-> git clone https://github.do/https://github.com/AdminWhaleFall/SMSBoom.git
+> git clone https://github.do/https://github.com/zanjie1999/SMSBoom.git
 > ```  
 
-- 方法二：点击下载[项目压缩包](https://github.com/AdminWhaleFall/SMSBoom/archive/refs/heads/master.zip)并解压.  
+- 方法二：点击下载[项目压缩包](https://github.com/zanjie1999/SMSBoom/archive/refs/heads/master.zip)并解压.  
 
 #### 配置环境  
 
@@ -272,8 +272,8 @@ Options:
 
 <!-- **微/信 && 支/付宝🔗**  
 <center class="half">
-<img src="https://cdn.jsdelivr.net/gh/AdminWhaleFall/SMSBoom@master/img/wx_pay.jpg" width=40%/>
-<img src="https://cdn.jsdelivr.net/gh/AdminWhaleFall/SMSBoom@master/img/aliyun_pay.jpg" width=40%/>
+<img src="https://cdn.jsdelivr.net/gh/zanjie1999/SMSBoom@master/img/wx_pay.jpg" width=40%/>
+<img src="https://cdn.jsdelivr.net/gh/zanjie1999/SMSBoom@master/img/aliyun_pay.jpg" width=40%/>
 </center> -->
 
 > 赞助的金额将用于我每月治疗 **抑/郁症** 的支出.谢谢大家的支持和鼓励! **比心ing**
@@ -287,7 +287,7 @@ Options:
 
 ## Star ♥ 趋势图
 
-<img src="https://starchart.cc/adminwhalefall/smsboom.svg">
+<img src="https://starchart.cc/zanjie1999/smsboom.svg">
 
 ## ✨讨论
 
@@ -296,7 +296,7 @@ Options:
 ### 企鹅🐧群
 > 企鹅群不允许讨论相关敏感信息!违者上飞机票✈
 
-![企鹅群 QR](https://cdn.jsdelivr.net/gh/AdminWhaleFall/Pic@master/img/20220409151539.jpg)
+![企鹅群 QR](https://cdn.jsdelivr.net/gh/zanjie1999/Pic@master/img/20220409151539.jpg)
 
 ### Telegram Channel (TG群组)
 > 涉及敏/感信息,政/治,民/主运动话题请到 **TG群聊**
